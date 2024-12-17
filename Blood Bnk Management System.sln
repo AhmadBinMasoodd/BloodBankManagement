@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blood Bnk Management System", "Blood Bnk Management System.csproj", "{639A44FA-7006-41EF-B9DE-3297B716C070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639A44FA-7006-41EF-B9DE-3297B716C070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639A44FA-7006-41EF-B9DE-3297B716C070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639A44FA-7006-41EF-B9DE-3297B716C070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639A44FA-7006-41EF-B9DE-3297B716C070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1369E9D9-74FB-46E4-BB85-66DD135F6A2C}
+	EndGlobalSection
+EndGlobal
