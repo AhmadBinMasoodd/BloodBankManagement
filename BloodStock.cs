@@ -15,21 +15,7 @@ namespace Blood_Bnk_Management_System
             catch (Exception ex) { }
             BloodStockView();
         }
-        //int oldStock;
-        //private void GetBloodStock(string Bgroup)
-        //{
-        //    con.Open();
-        //    string query = "select * from BloodStock where Group='" + Bgroup + "'";
-        //    SqlCommand cmd = new SqlCommand(query, con);
-        //    DataTable data = new DataTable();
-        //    SqlDataAdapter sda = new SqlDataAdapter(cmd);
-        //    sda.Fill(data);
-        //    foreach (DataRow dr in data.Rows)
-        //    {
-        //        oldStock = Convert.ToInt32(dr["Stock"].ToString());
-        //    }
-        //    con.Close();
-        //}
+
         private void BloodStockView()
         {
             con.Open();

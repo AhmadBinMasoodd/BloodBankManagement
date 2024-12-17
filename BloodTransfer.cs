@@ -79,6 +79,7 @@ namespace Blood_Bnk_Management_System
             AvailableLbl.Text = "Availability";
 
         }
+        
         private void fillPatientCb()
         {
             con.Open();
